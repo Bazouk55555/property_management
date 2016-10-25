@@ -13,13 +13,13 @@ public class SendMess {
 		String host;
 		final String username = from;
 		final String password;
-		if(from=="adrien_boukobza@hotmail.fr"){
-			password = "232025";//change accordingly
+		if(from=="XXX"){
+			password = "XXX";//change accordingly
 			host = "smtp.live.com";
 	      }
 		else 
 		{
-			password="z2tz7hh";
+			password="XXX";
 			host="smtp.orange.fr";
 	    }
 	    Properties props = new Properties();
